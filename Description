@@ -1,0 +1,12 @@
+Takes a username, domain, email, or IP address and performs OSINT reconnaissance using public sources/APIs like:
+
+🔎 Username search across platforms (GitHub, Twitter, Reddit)
+
+🧠 Email breach check using HaveIBeenPwned
+
+🕵️ Domain info (WHOIS, DNS, subdomain brute force)
+
+🌐 IP geolocation and reputation
+
+🧪 LinkedIn/Google dork recon (optional)
+
