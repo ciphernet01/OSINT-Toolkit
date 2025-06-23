@@ -1,0 +1,17 @@
+
+---
+
+## 🔐 APIs You Might Use
+- `https://ipinfo.io`
+- `https://haveibeenpwned.com` *(You’ll need an API key)*
+- `https://crt.sh` *(for cert-based subdomain recon)*
+
+---
+
+## 🧠 Extra Ideas (Advanced Features)
+- Add Shodan & Censys support
+- Generate full HTML report
+- Telegram bot version
+- Google Dork module
+
+---
